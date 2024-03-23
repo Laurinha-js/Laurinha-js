@@ -27,7 +27,7 @@
  
  ![snake gif](https://github.com/Laurinha-js/Laurinha-js/blob/output/github-contribution-grid-snake.svg)
 
-[![readme].(https://github-readme-stats.vercel.app/api/pin/?username=Laurinha-js&repo=Laurinha-js&teme=react)].(https://github.com/Laurinha-js/Laurinha-js).
+
 
 
 
