@@ -1,4 +1,4 @@
-### Olá! Eu sou a Laura 
+### Olá! Meu nome é Laura 
 
 - 🔭 Hoje faço faculdade de ADS
 - 🌱 Estudando JavaScript
